@@ -2,7 +2,7 @@
 <ul>
   <li>Function</li>
   <li>Parameter</li>
-  <li></li>
-  <li></li>
+  <li>Add</li>
+  <li>Return</li>
   <li></li>
 </ul>
