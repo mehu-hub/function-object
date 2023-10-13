@@ -15,4 +15,4 @@ function bringSingara(money){
 
 var myTaka = 150;
 var singaras = bringSingara(myTaka);
-// console.log(singaras);
+console.log(singaras);
